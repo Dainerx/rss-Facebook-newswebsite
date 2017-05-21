@@ -1,0 +1,22 @@
+Please follow these steps to proceed with the website on localhost:
+
+1. Import the new database pfe.sql
+
+
+2. Go to include folder, change these three lines: 
+        $dbname="pfe";
+        $username="root";
+        $password="root";
+To:
+        $dbname="pfe";
+        $username="root";
+        $password="";
+
+
+3. Two user accounts are the following: 
+	Admin account: 
+	username: admin
+	password: admin
+	User account: 
+	username: morched
+	password: aze
